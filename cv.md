@@ -19,16 +19,16 @@ I am therefore currently looking for a job or an internship as a front-end devel
 * InVision
 ## EXPERIENCE
 **Java developer GWT**
-*April 2018 – present* </br>
+*April 2018 – present*
 **UX/UI designer**
 *May 2019 – present*
 ## EDUCATION
-#### Belarusian National Technical University
-Faculty of Information Technology and Robotics </br>
-Information systems and technologies in the processing and presentation of information </br>
+###### Belarusian National Technical University
+###### Faculty of Information Technology and Robotics 
+###### Information systems and technologies in the processing and presentation of information
 **2014-2018**
 #### Сourses Fix Brain
-Web-Design </br>
+* Web-Design
 #### Codecademy <https://www.codecademy.com/profiles/_tabachinskaya>
 Сourses:
 * Introduction to HTML
