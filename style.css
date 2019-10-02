@@ -1,0 +1,27 @@
+body{
+    width: 1024px;
+    margin: auto;
+}
+h2{
+    text-transform: uppercase;
+    color: #0311FF;
+}
+
+.contacts{
+    display: flex;
+    flex-direction: row;
+    color: #646363;
+}
+
+.contacts p{
+    margin-right: 20px;
+}
+
+header h1{
+    color: #0311FF;
+}
+
+.image{
+    width: 800px;
+    margin: auto;
+}
